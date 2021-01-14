@@ -1,4 +1,4 @@
-- name: Pages
+- name: Research
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -27,9 +27,11 @@
       link: /sponsors/
     - name: Image Gallery
       link: /gallery/
-- name: Products
+- name: Publications
   link: /products/
-- name: Showcase
+- name: News
   link: /showcase/
-- name: Blog
+- name: Team
+  link: /blog/
+- name: Contact
   link: /blog/
