@@ -1,6 +1,6 @@
 - title: Image Gallery Title
   images:
-    - link: /img/dongdongshao.jpg
+    - image: /img/dongdongshao.jpg
       large_link: /img/dongdongshao.jpg
       alt: The alt text for the image
       description: ### Dongdong Shao
