@@ -1,6 +1,6 @@
 ---
-title: Products
-subtitle: Check out our range of products
+title: Publications
+subtitle: Some discriptions
 layout: product-category
 show_sidebar: false
 hide_hero:true
