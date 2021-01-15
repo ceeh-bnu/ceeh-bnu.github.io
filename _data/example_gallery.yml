@@ -1,9 +1,9 @@
 - title: Image Gallery Title
   images:
-    - link: https://via.placeholder.com/400x225
-      large_link: https://via.placeholder.com/1200x675
+    - link: /img/dongdongshao.jpg
+      large_link: /img/dongdongshao.jpg
       alt: The alt text for the image
-      description: The image description
+      description: ### Dongdong Shao
       ratio: is-16by9
     - link: https://via.placeholder.com/400x300
       large_link: https://via.placeholder.com/1200x900
