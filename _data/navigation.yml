@@ -28,10 +28,10 @@
     - name: Image Gallery
       link: /gallery/
 - name: Publications
-  link: /publications/
+  link: /products/
 - name: News
-  link: /news/
+  link: /showcase/
 - name: Team
-  link: /team/
+  link: /blog/
 - name: Contact
-  link: /contact/
+  link: /blog/
