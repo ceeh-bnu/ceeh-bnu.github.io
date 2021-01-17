@@ -7,31 +7,25 @@ gallery: example_gallery
 show_sidebar: false
 ---
 
-This is a page displaying a simple image gallery.
+## Professors
 
-## Create an image gallery data file
+table here
+| c1 | c2 |
+
+| ![Dongdong Shao](/img/dongdongshao.jpg) | Start by creating a gallery data file using the below format, for example `my_gallery.yml`. The image (link) will display on the page and when you click on the image, it will display the large_link image in a modal window.  |
+| --- | --- |
+| baz | bim |
+
+![Dongdong Shao](/img/dongdongshao.jpg)
+### Dongdong Shao
 
 Start by creating a gallery data file using the below format, for example `my_gallery.yml`. The image (link) will display on the page and when you click on the image, it will display the large_link image in a modal window. 
 
-```yaml
-- title: Image Gallery Title
-  images:
-    - link: https://via.placeholder.com/800x450
-      large_link: https://via.placeholder.com/1200x675
-      alt: The alt text for the image
-      description: |-
-        The image description can be written in **markdown** if required
-      ratio: is-16by9
-    - link: https://via.placeholder.com/800x600
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: The image description
-      ratio: is-4by3
-```
+## Phd
+![Weilun Gao](/img/weilungao.jpg)
+### Weilun Gao
+Coastal morphodynamics, river avulsion, ecogeomorphology
 
-* If a ratio is not provided it will default to 16 by 9. Use [Bulma image](https://bulma.io/documentation/elements/image/) classes to define the image ratio required. 
-* The description can be plain text or it can be markdown if required. 
-* The alt will be used as the images alt text.
 
 ## Multiple galleries
 
