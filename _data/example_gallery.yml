@@ -1,12 +1,12 @@
 - title: Image Gallery Title
   images:
-    - link: /img/dongdongshao.jpg
-      large_link: /img/dongdongshao.jpg
+    - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
+      large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
       alt: The alt text for the xxx
       description: ### Dongdong Shao
       ratio: is-16by9
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
+    - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
+      large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
       alt: The alt text for the image
       description: The image description
       ratio: is-4by3
