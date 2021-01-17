@@ -2,9 +2,9 @@
   images:
     - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
       large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
-      alt: The alt text for the xxx
+      alt: The alt text for
       description: ### Dongdong Shao
-      ratio: is-18by25
+      ratio: is-180x250
     - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
       large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
       alt: The alt text for the image
