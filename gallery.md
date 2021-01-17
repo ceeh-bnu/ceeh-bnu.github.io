@@ -9,14 +9,12 @@ show_sidebar: false
 
 ## Professors
 
-table here
-| c1 | c2 |
 
 | ![Dongdong Shao](/img/dongdongshao.jpg) | Start by creating a gallery data file using the below format, for example `my_gallery.yml`. The image (link) will display on the page and when you click on the image, it will display the large_link image in a modal window.  |
 | --- | --- |
 | baz | bim |
 
-![Dongdong Shao](/img/dongdongshao.jpg)
+![Dongdong Shao](/img/dongdongshao.jpg) ![Weilun Gao](/img/weilungao.jpg) ![Dongdong Shao](/img/dongdongshao.jpg)
 ### Dongdong Shao
 
 Start by creating a gallery data file using the below format, for example `my_gallery.yml`. The image (link) will display on the page and when you click on the image, it will display the large_link image in a modal window. 
