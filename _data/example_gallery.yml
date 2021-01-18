@@ -1,5 +1,17 @@
 - title: 
   images:
+    - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
+      large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/dongdongshao.jpg
+      alt: Dongdong Shao
+      ratio: is-18by25
+      description: |-
+        ### Dongdong Shao
+
+
+### some text 
+
+- title: 
+  images:
     - link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
       large_link: https://ceeh-bnu.github.io/ceeh-bnu.github.io/img/weilungao.jpg
       alt: Weilun Gao
