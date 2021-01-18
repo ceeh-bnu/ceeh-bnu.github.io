@@ -7,6 +7,8 @@ hero_darken: true
 show_sidebar: false
 menubar: example_menu
 ---
+
+
 ### Contacts of our group
 
 #### Address
@@ -30,7 +32,7 @@ Click [here](https://english.bnu.edu.cn/) to learn more about BNU!
 
 
 ![bnu1](/img/bnu1.jpg)
-#### the labrary
+#### the library
 
 <br>
 <br>
