@@ -1,17 +1,14 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: 
+subtitle: 
 layout: page
 show_sidebar: false
+menubar: example_menu
 ---
 
-This is another sample page showing how a page can look without a sidebar. 
 
-To hide the sidebar, set the show_sidebar to false in the page's frontmatter
+#### Address
+School of Environment, Beijing Normal Univeristy, No.19, Xinjiekouwai St, Haidian District, Beijing, 100875, P.R.China
 
-```yml
-title: Page without sidebar
-subtitle: Demo page without the sidebar
-layout: page
-show_sidebar: false
-```
+#### Email
+ddshao@bnu.edu.cn
