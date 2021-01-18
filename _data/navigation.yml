@@ -32,6 +32,6 @@
 - name: News
   link: /showcase/
 - name: People
-  link: /gallery/
+  link: /page-with-image-modal/
 - name: Contacts
   link: /blog/
