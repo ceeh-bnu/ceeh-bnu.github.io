@@ -9,7 +9,7 @@ menubar: example_menu
 ---
 
 
-### Contacts of our group
+### Contacts
 
 #### Address
 School of Environment, Beijing Normal Univeristy, No.19, Xinjiekouwai St, Haidian District, Beijing, 100875, P.R.China
@@ -22,6 +22,7 @@ ddshao@bnu.edu.cn
 ### Links
 
 [![bnu](/img/bnu0.jpg)](https://english.bnu.edu.cn/)
+<br>
 [Beijing Normal University](https://english.bnu.edu.cn/)
 
 
@@ -29,4 +30,5 @@ ddshao@bnu.edu.cn
 <br>
 
 [![env](/img/environment1.jpg)](https://english.bnu.edu.cn/schoolsdepartments/byx/113309.htm)
+<br>
 [School of Environment, Beijing Normal University](https://english.bnu.edu.cn/schoolsdepartments/byx/113309.htm)
