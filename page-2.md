@@ -19,31 +19,14 @@ ddshao@bnu.edu.cn
 
 
 ---
-### Extension
+### Links
 
-Here are some beautiful pictures of Beijing Normal University! 
-Click [here](https://english.bnu.edu.cn/) to learn more about BNU!
+[![bnu](/img/bnu0.jpg)](https://english.bnu.edu.cn/)
+[Beijing Normal University](https://english.bnu.edu.cn/)
 
-![bnu0](/img/bnu0.jpg)
-#### the Mu Duo of BNU
-<br>
+
 <br>
 <br>
 
-
-![bnu1](/img/bnu1.jpg)
-#### the library
-
-<br>
-<br>
-<br>
-
-![bnu2](/img/bnu2.jpg)
-#### a teaching building
-<br>
-<br>
-<br>
-
-![bnu1](/img/bnu3.jpg)
-#### the main buiding
-
+[![env](/img/environment1.jpg)](https://english.bnu.edu.cn/schoolsdepartments/byx/113309.htm)
+[School of Environment, Beijing Normal University](https://english.bnu.edu.cn/schoolsdepartments/byx/113309.htm)

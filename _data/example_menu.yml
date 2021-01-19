@@ -1,8 +1,8 @@
-- label: Example Menu
+- label: Main Menu
   items:
     - name: Home
       link: /
-    - name: Pages
+    - name: Research
       link: /#
       items:
         - name: Page With Sidebar 
@@ -31,5 +31,14 @@
           link: /sponsors/
         - name: Image Gallery
           link: /gallery/
-    - name: Blog
-      link: /blog/
+    - name: Publications
+      link: /products/
+    - name: News
+      link: /showcase/
+    - name: People
+      link: /page-with-image-modal/
+    - name: Image gallery
+      link: /gallery/
+    - name: Contacts
+      link: /page-2/
+
