@@ -3,10 +3,10 @@ layout: page
 title: 
 subtitle: 
 description:  
-gallery: example_gallery
-hide_hero: true
 toc: true
 toc_title: Contents
+gallery: example_gallery
+hide_hero: true
 show_sidebar: false
 ---
 
