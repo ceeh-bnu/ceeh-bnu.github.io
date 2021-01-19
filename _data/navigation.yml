@@ -33,5 +33,7 @@
   link: /showcase/
 - name: People
   link: /page-with-image-modal/
+- name: Image gallery
+  link: /gallery/
 - name: Contacts
   link: /page-2/
