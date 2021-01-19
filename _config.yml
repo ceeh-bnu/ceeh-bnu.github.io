@@ -8,7 +8,7 @@ baseurl: "/ceeh-bnu.github.io"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor:
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
