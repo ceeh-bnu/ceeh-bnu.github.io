@@ -1,54 +1,34 @@
 ---
 title: Coastal Eco- & Evironmental Hydraulics
-subtitle: This is the demo site for Coastal Eco- & Evironmental Hydraulics
+subtitle: Here should be the background image
 layout: page
-callouts: home_callouts
 show_sidebar: true
 ---
 
-# Coastal Eco- & Evironmental Hydraulics demo website
+here is picture of the group
 
-This website showcases the options for the Coastal Eco- & Evironmental Hydraulics. The theme is available as a ruby gem or can be used with GitHub pages. 
+![seagrass](/img/seagrass.jpg)
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+<br>
+<br>
 
-## Ruby Gem
+# Introduction
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
 
-## GitHub Pages
+here is a brief introduction for the group
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
+﻿﻿邵冬冬：男，博士，副教授，博士生导师。主要从事环境与生态水力学、湿地水文和生态过程、河口海岸工程等方面的教学和研究工作。主持和参与了多项国家和省部级科研项目，已发表论文三十余篇，担任国际水利与环境工程学会-国际水协会海洋排放系统专业委员会理事会成员、全国海洋标准化技术委员会海水淡化及综合利用分技术委员会委员等多项国内外学术职务。
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
 
-## Instructions
 
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
+课题组聚焦滨海湿地植被地貌动力过程和近海水产养殖环境影响等多学科交叉研究前沿热点，开展室内试验、野外监测和数值模拟研究。课题组与清华大学、荷兰代尔夫特理工大学、美国马里兰大学环境科学中心等国内外高水平大学和研究机构开展紧密合作，近年来在Geophysical Research Letters等国际顶尖刊物发表了一系列高水平研究成果。
 
-## Page Layouts
 
-This demo site showcases the available page layout options.
 
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Blog
-* Post
+热忱欢迎环境科学、水力学、港口海岸及近海工程、物理海洋学、水产养殖等相关专业的有志青年加盟！
 
-## Supported By JetBrains
 
-JetBrains have kindly provided an Open Source licence to aid in the future development of Coastal Eco- & Evironmental Hydraulics.
 
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+
+
+

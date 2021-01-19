@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: Publications
-  link: /products/
+  link: /publications/
 - name: News
-  link: /showcase/  
+  link: /news/  
 - name: People
-  link: /page-with-image-modal/
+  link: /people/
 
 

@@ -32,13 +32,13 @@
         - name: Image Gallery
           link: /gallery/
     - name: Publications
-      link: /products/
+      link: /publications/
     - name: News
-      link: /showcase/
+      link: /news/
     - name: People
-      link: /page-with-image-modal/
+      link: /people/
     - name: Image gallery
       link: /gallery/
     - name: Contacts
-      link: /page-2/
+      link: /contacts/
 

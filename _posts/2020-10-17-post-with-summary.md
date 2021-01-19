@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post with a summary
+title: I changed this
 summary: |-
     This is the custom summary for the post.
 
