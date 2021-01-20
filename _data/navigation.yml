@@ -1,8 +1,11 @@
 - name: Research
   link: /#
   dropdown:
+    - name: Directions
+      link: /directions/
     - name: Projects
       link: /projects/
+      
 - name: Publications
   link: /publications/
 - name: News

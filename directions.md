@@ -5,10 +5,10 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-## Title1
+## Projects under study (selected)
 
 1. demo1
 
 
-## Title2
+## Projects completed
 1. demo2
