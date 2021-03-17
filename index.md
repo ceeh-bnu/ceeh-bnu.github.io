@@ -1,6 +1,6 @@
 ---
 title: Coastal Eco- & Evironmental Hydraulics
-subtitle: Here should be the background image
+hero_image: /img/hero1.jpg
 layout: page
 show_sidebar: true
 ---
