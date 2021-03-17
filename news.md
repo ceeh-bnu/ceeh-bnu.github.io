@@ -5,10 +5,4 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-## Title1
-
-1. demo1
-
-
-## Title2
-1. demo2
+To be updated
