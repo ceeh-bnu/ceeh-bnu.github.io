@@ -4,7 +4,7 @@ tagline: ceeh
 email: your-email@domain.com
 description: >
   The demo site for Coastal Eco- & Evironmental Hydraulics, made for Jekyll and GitHub pages websites
-baseurl: "/ceeh-bnu.github.io"
+baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
