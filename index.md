@@ -1,4 +1,5 @@
 ---
+title: Coastal Eco- & Evironmental Hydraulics
 hero_image: /img/hero1.jpg
 layout: page
 show_sidebar: true
