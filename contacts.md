@@ -1,9 +1,7 @@
 ---
 title:
-layout: page
 hero_image: /img/hero1.jpg
-hero_darken: true
-show_sidebar: false
+layout: page
 ---
 
 

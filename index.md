@@ -2,6 +2,7 @@
 title:
 hero_image: /img/hero1.jpg
 layout: page
+show_sidebar: false
 ---
 
 here is picture of the group
