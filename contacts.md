@@ -1,7 +1,8 @@
 ---
-title:
-hero_image: /img/hero1.jpg
 layout: page
+title: 
+hero_image: /img/hero1.jpg
+show_sidebar: false
 ---
 
 
