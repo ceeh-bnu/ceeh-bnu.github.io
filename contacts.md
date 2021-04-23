@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 
+hide_hero: true
 hero_image: /img/hero1.jpg
 show_sidebar: false
 ---
